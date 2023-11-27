@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Li-Fi Website</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Welcome to the Li-Fi World</h1>
+    </header>
+
+    <section>
+        <p>Li-Fi, short for "Light Fidelity," is a cutting-edge wireless communication technology that utilizes visible light to transmit data. Conceived by Harald Haas, a professor at the University of Edinburgh, Li-Fi represents a promising alternative to traditional radio frequency (RF) communication methods such as Wi-Fi.</p>
+
+        <p>At its core, Li-Fi leverages the rapid flickering of LED (Light Emitting Diode) bulbs to transmit binary data...</p>
+
+        <!-- Include more paragraphs as needed -->
+
+        <p>Despite its numerous advantages, Li-Fi does face some challenges...</p>
+    </section>
+
+    <section>
+        <h2>Watch this video to learn more:</h2>
+        <iframe width="560" height="315" src="https://www.youtube.com/watch?v=AKvvEqm9Nv4" frameborder="0"
+            allowfullscreen></iframe>
+    </section>
+
+    <footer>
+        <p>In conclusion, Li-Fi stands at the forefront of wireless communication technologies...</p>
+    </footer>
+
+</body>
+
+</html>
